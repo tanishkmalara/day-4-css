@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanishk Malara - Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Tanishk Malara</h1>
+        <p>BCA Student | Web Developer</p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>About Me</h2>
+            <p>
+                I am a BCA student interested in web development,
+                programming, and building practical projects.
+            </p>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <h3>Bachelor of Computer Applications (BCA)</h3>
+            <p>Currently pursuing BCA</p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Python</li>
+                <li>Git & GitHub</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+
+            <article>
+                <h3>A* Pathfinding Visualizer</h3>
+                <p>
+                    A web project that demonstrates the A* pathfinding
+                    algorithm visually.
+                </p>
+            </article>
+
+            <article>
+                <h3>Personal Portfolio</h3>
+                <p>
+                    A personal portfolio website created using
+                    HTML, CSS and JavaScript.
+                </p>
+            </article>
+        </section>
+
+        <section>
+            <h2>Hobbies</h2>
+            <ul>
+                <li>Learning programming</li>
+                <li>Building projects</li>
+                <li>Exploring technology</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact</h2>
+            <p>Email: tanishkmalaraa@gmail.com</p>
+            <p>Phone: 7302789684</p>
+            <p>
+                GitHub:
+                <a href="https://github.com/" target="_blank">GitHub Profile</a>
+            </p>
+            <p>
+                LinkedIn:
+                <a href="https://www.linkedin.com/" target="_blank">
+                    LinkedIn Profile
+                </a>
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Tanishk Malara</p>
+    </footer>
+
+</body>
+</html>
