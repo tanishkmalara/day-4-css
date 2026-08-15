@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main>
+        <article class="profile-card">
+            <h1>Tanishk Malara</h1>
+            <h2>BCA Student</h2>
+
+            <p>
+                I am interested in web development,
+                programming and building practical projects.
+            </p>
+
+            <a href="https://github.com/" target="_blank">GitHub</a>
+        </article>
+    </main>
+
+</body>
+</html>
